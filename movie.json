@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "posterUrl": "https://example.com/poster.jpg",
+    "genre": "Action",
+    "year": 2010,
+    "description": "A mind-bending thriller",
+    "rating": 8.8
+  }
+]
